@@ -3,13 +3,6 @@
 PNG icons for Docker containers, mirrored here so they don't
 disappear when third-party template repos are abandoned or deleted.
 
-<p>
-  <img src="https://raw.githubusercontent.com/mad2802/docker-icons/main/docker/redis.png" width="48" alt="redis">
-  <img src="https://raw.githubusercontent.com/mad2802/docker-icons/main/docker/immich-logo.png" width="48" alt="immich">
-  <img src="https://raw.githubusercontent.com/mad2802/docker-icons/main/docker/mariadb-logo.png" width="48" alt="mariadb">
-  <img src="https://raw.githubusercontent.com/mad2802/docker-icons/main/docker/valkey-logo.png" width="48" alt="valkey">
-</p>
-
 ## Usage
 
 Point your container's icon setting at the raw URL:

@@ -1,0 +1,6 @@
+*.yml
+*.yaml
+*.conf
+*.sh
+*.env
+.DS_Store
